@@ -1,0 +1,6 @@
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\HOME\liri-node-app\liri.js,movie-this,frozenLIRI:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
