@@ -5,8 +5,6 @@ Read commands and queries from file
 
 <strong> How To Start </strong>
 
-How To Start 
-
 npm i 
 
 <strong>Technologies Used </strong>
