@@ -11,9 +11,13 @@ Read commands and queries from file
 
 <strong>Technologies Used </strong>
 Node.js
+
 JavaScript
+
 Twitter API (via twitter npm module)
+
 Spotify API (via spotify npm module)
+
 OMDb API (via request npm module)
 
 <strong> Code Explanation </strong> 
