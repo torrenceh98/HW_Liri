@@ -22,7 +22,7 @@ OMDb API (via request npm module)
 <strong> Code Explanation </strong> 
 
 Authentication keys for Twitter are stored in "keys.js", and we are exporting its contents to the main "liri.js" file
-What our app does depends on what the user types, and there are 4 main functions: (1) prints latest tweets, (2) Spotify lookup for a song, (3) OMDb lookup for a movie
+What our app does depends on what the user types, and there are 3 main functions: (1) prints latest tweets, (2) Spotify lookup for a song, (3) OMDb lookup for a movie
 
 <strong> Get Started </strong> 
 
